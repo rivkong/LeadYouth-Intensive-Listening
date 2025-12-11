@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LeadYouth Blurlistening",
+  "description": "A focus-oriented listening practice application where text structure is visible but content is blurred. Features audio synchronization with a guiding cursor to help tracking without revealing answers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
